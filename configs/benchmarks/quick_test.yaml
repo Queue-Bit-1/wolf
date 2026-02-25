@@ -1,0 +1,49 @@
+game_name: "quick_test"
+num_players: 7
+
+roles:
+  - role: werewolf
+    count: 2
+  - role: seer
+    count: 1
+  - role: doctor
+    count: 1
+  - role: villager
+    count: 3
+
+default_model:
+  api_base: "http://localhost:11434/v1"
+  api_key: "ollama"
+  model: "qwq:32b"
+  reasoning_temperature: 0.7
+  action_temperature: 0.3
+  timeout: 120.0
+
+players:
+  - name: Alpha
+    agent_type: random
+  - name: Beta
+    agent_type: random
+  - name: Gamma
+    agent_type: random
+  - name: Delta
+    agent_type: random
+  - name: Epsilon
+    agent_type: random
+  - name: Zeta
+    agent_type: random
+  - name: Eta
+    agent_type: random
+
+benchmark:
+  num_games: 5
+  parallel_games: 1
+  rotate_roles: true
+
+metrics:
+  enabled: true
+  output_dir: "./results/quick_test"
+  export_formats:
+    - json
+
+max_days: 10

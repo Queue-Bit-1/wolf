@@ -1,0 +1,122 @@
+{
+  "num_games": 2,
+  "win_rates": {
+    "win_rate_by_team": {
+      "werewolf": 0.5,
+      "village": 0.5
+    },
+    "win_rate_by_role": {
+      "seer": 0.5,
+      "doctor": 0.5,
+      "werewolf": 0.5,
+      "villager": 0.5
+    },
+    "survival_rate_by_role": {
+      "seer": 0.5,
+      "doctor": 0.5,
+      "werewolf": 0.5,
+      "villager": 0.3333333333333333
+    },
+    "avg_survival_time_by_role": {
+      "seer": 1.5,
+      "doctor": 2.5,
+      "werewolf": 2.5,
+      "villager": 2.3333333333333335
+    },
+    "win_rate_by_model": {
+      "qwq:32b": 0.5
+    }
+  },
+  "reasoning": {
+    "accusation_accuracy": {
+      "p1": 1.0,
+      "p2": 0.0,
+      "p5": 0.4,
+      "p6": 0.4,
+      "p3": 0.5,
+      "p7": 0.0
+    },
+    "vote_consistency": {
+      "p1": 0.0,
+      "p2": 0.0,
+      "p3": 0.0,
+      "p4": 0.0,
+      "p5": 0.0,
+      "p6": 0.0,
+      "p7": 0.0
+    },
+    "deception_success": {
+      "p3": 1.0,
+      "p4": 0.5,
+      "p2": 1.0
+    }
+  },
+  "social": {
+    "persuasion_effectiveness": {},
+    "voting_bloc_detection": [
+      {
+        "players": [
+          "p3",
+          "p6"
+        ],
+        "agreement_rate": 0.667,
+        "rounds_together": 3
+      }
+    ]
+  },
+  "cross_game": {
+    "game_length": {
+      "mean": 3,
+      "std": 1.414,
+      "ci_lower": -9.706,
+      "ci_upper": 15.706,
+      "n": 2
+    },
+    "eliminations_per_game": {
+      "mean": 4,
+      "std": 1.414,
+      "ci_lower": -8.706,
+      "ci_upper": 16.706,
+      "n": 2
+    },
+    "speeches_per_game": {
+      "mean": 27,
+      "std": 15.556,
+      "ci_lower": -112.766,
+      "ci_upper": 166.766,
+      "n": 2
+    }
+  },
+  "model_comparison": {
+    "qwq:32b": {
+      "wins": {
+        "mean": 0.5,
+        "std": 0.519,
+        "ci_lower": 0.191,
+        "ci_upper": 0.809,
+        "n": 14
+      },
+      "survival": {
+        "mean": 0.429,
+        "std": 0.514,
+        "ci_lower": 0.123,
+        "ci_upper": 0.734,
+        "n": 14
+      },
+      "survival_time": {
+        "mean": 2.286,
+        "std": 1.069,
+        "ci_lower": 1.649,
+        "ci_upper": 2.922,
+        "n": 14
+      },
+      "speeches": {
+        "mean": 3.857,
+        "std": 2.983,
+        "ci_lower": 2.081,
+        "ci_upper": 5.634,
+        "n": 14
+      }
+    }
+  }
+}

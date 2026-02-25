@@ -1,0 +1,1112 @@
+{
+  "model": "Grok-4-1-fast-reasoning",
+  "games": 700,
+  "pool_size": 140,
+  "per_name": {
+    "Emeka": {
+      "games": 29,
+      "voted_out": 4,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Khalid": {
+      "games": 42,
+      "voted_out": 27,
+      "wolf_games": 4,
+      "wolf_caught": 2
+    },
+    "Olivia": {
+      "games": 35,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Vikram": {
+      "games": 34,
+      "voted_out": 11,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Kelechi": {
+      "games": 35,
+      "voted_out": 5,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Minho": {
+      "games": 43,
+      "voted_out": 5,
+      "wolf_games": 10,
+      "wolf_caught": 1
+    },
+    "Irina": {
+      "games": 32,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Maksym": {
+      "games": 43,
+      "voted_out": 12,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Emre": {
+      "games": 38,
+      "voted_out": 19,
+      "wolf_games": 2,
+      "wolf_caught": 2
+    },
+    "William": {
+      "games": 33,
+      "voted_out": 6,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Henry": {
+      "games": 33,
+      "voted_out": 8,
+      "wolf_games": 7,
+      "wolf_caught": 2
+    },
+    "Andrei": {
+      "games": 37,
+      "voted_out": 7,
+      "wolf_games": 7,
+      "wolf_caught": 2
+    },
+    "Robert": {
+      "games": 41,
+      "voted_out": 6,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Daichi": {
+      "games": 46,
+      "voted_out": 6,
+      "wolf_games": 6,
+      "wolf_caught": 1
+    },
+    "Bowen": {
+      "games": 41,
+      "voted_out": 10,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Mustafa": {
+      "games": 41,
+      "voted_out": 20,
+      "wolf_games": 9,
+      "wolf_caught": 4
+    },
+    "Priya": {
+      "games": 45,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Camila": {
+      "games": 36,
+      "voted_out": 0,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Lucia": {
+      "games": 41,
+      "voted_out": 0,
+      "wolf_games": 10,
+      "wolf_caught": 0
+    },
+    "Fernanda": {
+      "games": 32,
+      "voted_out": 1,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Edward": {
+      "games": 36,
+      "voted_out": 9,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Chidi": {
+      "games": 39,
+      "voted_out": 4,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Himari": {
+      "games": 44,
+      "voted_out": 1,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Geeta": {
+      "games": 47,
+      "voted_out": 0,
+      "wolf_games": 9,
+      "wolf_caught": 0
+    },
+    "Takeshi": {
+      "games": 44,
+      "voted_out": 6,
+      "wolf_games": 9,
+      "wolf_caught": 2
+    },
+    "Antoni": {
+      "games": 36,
+      "voted_out": 4,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Megan": {
+      "games": 36,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Bohdan": {
+      "games": 35,
+      "voted_out": 18,
+      "wolf_games": 3,
+      "wolf_caught": 2
+    },
+    "Kavitha": {
+      "games": 35,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Patrick": {
+      "games": 29,
+      "voted_out": 7,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Haruto": {
+      "games": 37,
+      "voted_out": 9,
+      "wolf_games": 8,
+      "wolf_caught": 2
+    },
+    "Milena": {
+      "games": 33,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Katya": {
+      "games": 36,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Sekou": {
+      "games": 43,
+      "voted_out": 11,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Natasha": {
+      "games": 47,
+      "voted_out": 1,
+      "wolf_games": 10,
+      "wolf_caught": 0
+    },
+    "Layla": {
+      "games": 39,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Pavel": {
+      "games": 32,
+      "voted_out": 13,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Jungwoo": {
+      "games": 29,
+      "voted_out": 8,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Kofi": {
+      "games": 34,
+      "voted_out": 8,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Rafael": {
+      "games": 29,
+      "voted_out": 8,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Solomiya": {
+      "games": 28,
+      "voted_out": 0,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Samira": {
+      "games": 29,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Rohit": {
+      "games": 41,
+      "voted_out": 12,
+      "wolf_games": 4,
+      "wolf_caught": 1
+    },
+    "Sergei": {
+      "games": 28,
+      "voted_out": 13,
+      "wolf_games": 2,
+      "wolf_caught": 1
+    },
+    "Theodore": {
+      "games": 33,
+      "voted_out": 7,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Dmitri": {
+      "games": 31,
+      "voted_out": 17,
+      "wolf_games": 6,
+      "wolf_caught": 5
+    },
+    "Valentina": {
+      "games": 43,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Divya": {
+      "games": 38,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Mariana": {
+      "games": 28,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Leticia": {
+      "games": 37,
+      "voted_out": 0,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Nikodem": {
+      "games": 44,
+      "voted_out": 7,
+      "wolf_games": 9,
+      "wolf_caught": 2
+    },
+    "Jianwei": {
+      "games": 32,
+      "voted_out": 6,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Thiago": {
+      "games": 39,
+      "voted_out": 16,
+      "wolf_games": 8,
+      "wolf_caught": 1
+    },
+    "Suresh": {
+      "games": 36,
+      "voted_out": 8,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Tariq": {
+      "games": 32,
+      "voted_out": 8,
+      "wolf_games": 0,
+      "wolf_caught": 0
+    },
+    "Mariama": {
+      "games": 27,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Ivan": {
+      "games": 37,
+      "voted_out": 7,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Daria": {
+      "games": 30,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Bernardo": {
+      "games": 44,
+      "voted_out": 2,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Prakash": {
+      "games": 47,
+      "voted_out": 24,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Nkechi": {
+      "games": 33,
+      "voted_out": 0,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Ricardo": {
+      "games": 42,
+      "voted_out": 14,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Yusuf": {
+      "games": 43,
+      "voted_out": 8,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Petra": {
+      "games": 34,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Mehmet": {
+      "games": 32,
+      "voted_out": 7,
+      "wolf_games": 4,
+      "wolf_caught": 1
+    },
+    "Tsumugi": {
+      "games": 32,
+      "voted_out": 1,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Viktor": {
+      "games": 37,
+      "voted_out": 27,
+      "wolf_games": 5,
+      "wolf_caught": 4
+    },
+    "Defne": {
+      "games": 28,
+      "voted_out": 0,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Ikenna": {
+      "games": 46,
+      "voted_out": 1,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Sanduni": {
+      "games": 27,
+      "voted_out": 1,
+      "wolf_games": 5,
+      "wolf_caught": 1
+    },
+    "Pablo": {
+      "games": 42,
+      "voted_out": 16,
+      "wolf_games": 8,
+      "wolf_caught": 5
+    },
+    "Adaeze": {
+      "games": 40,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Diego": {
+      "games": 44,
+      "voted_out": 3,
+      "wolf_games": 7,
+      "wolf_caught": 1
+    },
+    "Yuna": {
+      "games": 26,
+      "voted_out": 0,
+      "wolf_games": 0,
+      "wolf_caught": 0
+    },
+    "Ibrahim": {
+      "games": 40,
+      "voted_out": 6,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Ximena": {
+      "games": 29,
+      "voted_out": 1,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Gaurav": {
+      "games": 27,
+      "voted_out": 11,
+      "wolf_games": 6,
+      "wolf_caught": 3
+    },
+    "Sanjay": {
+      "games": 45,
+      "voted_out": 12,
+      "wolf_games": 7,
+      "wolf_caught": 2
+    },
+    "Varvara": {
+      "games": 26,
+      "voted_out": 1,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Yaw": {
+      "games": 45,
+      "voted_out": 29,
+      "wolf_games": 4,
+      "wolf_caught": 3
+    },
+    "Mingyu": {
+      "games": 42,
+      "voted_out": 8,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Amina": {
+      "games": 32,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Jiyeon": {
+      "games": 42,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Mateo": {
+      "games": 37,
+      "voted_out": 2,
+      "wolf_games": 10,
+      "wolf_caught": 0
+    },
+    "Margaret": {
+      "games": 42,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Eleanor": {
+      "games": 43,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Akosua": {
+      "games": 29,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Ousmane": {
+      "games": 31,
+      "voted_out": 8,
+      "wolf_games": 6,
+      "wolf_caught": 2
+    },
+    "Alejandro": {
+      "games": 36,
+      "voted_out": 2,
+      "wolf_games": 9,
+      "wolf_caught": 1
+    },
+    "Efua": {
+      "games": 18,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Folake": {
+      "games": 43,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Thomas": {
+      "games": 45,
+      "voted_out": 4,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Deepa": {
+      "games": 33,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Xiuying": {
+      "games": 43,
+      "voted_out": 2,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Omar": {
+      "games": 28,
+      "voted_out": 12,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Benjamin": {
+      "games": 32,
+      "voted_out": 1,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Kwame": {
+      "games": 41,
+      "voted_out": 15,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Ngozi": {
+      "games": 40,
+      "voted_out": 1,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Hassan": {
+      "games": 26,
+      "voted_out": 4,
+      "wolf_games": 6,
+      "wolf_caught": 1
+    },
+    "Aiko": {
+      "games": 34,
+      "voted_out": 1,
+      "wolf_games": 5,
+      "wolf_caught": 1
+    },
+    "Rania": {
+      "games": 28,
+      "voted_out": 1,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Catherine": {
+      "games": 36,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Soyeon": {
+      "games": 25,
+      "voted_out": 3,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Victoria": {
+      "games": 29,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Carolina": {
+      "games": 39,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Nalini": {
+      "games": 30,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Sakura": {
+      "games": 31,
+      "voted_out": 3,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Zofia": {
+      "games": 22,
+      "voted_out": 0,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Hyunwoo": {
+      "games": 32,
+      "voted_out": 11,
+      "wolf_games": 4,
+      "wolf_caught": 3
+    },
+    "Hannah": {
+      "games": 39,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Fernando": {
+      "games": 30,
+      "voted_out": 3,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Yasmin": {
+      "games": 27,
+      "voted_out": 3,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Seojun": {
+      "games": 32,
+      "voted_out": 6,
+      "wolf_games": 2,
+      "wolf_caught": 1
+    },
+    "Hamza": {
+      "games": 35,
+      "voted_out": 19,
+      "wolf_games": 5,
+      "wolf_caught": 3
+    },
+    "Elizabeth": {
+      "games": 34,
+      "voted_out": 0,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Arjun": {
+      "games": 36,
+      "voted_out": 10,
+      "wolf_games": 2,
+      "wolf_caught": 1
+    },
+    "Fatima": {
+      "games": 22,
+      "voted_out": 0,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Sunita": {
+      "games": 43,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Charlotte": {
+      "games": 33,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Claire": {
+      "games": 37,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Zeynep": {
+      "games": 26,
+      "voted_out": 0,
+      "wolf_games": 7,
+      "wolf_caught": 0
+    },
+    "Maryam": {
+      "games": 28,
+      "voted_out": 0,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "James": {
+      "games": 41,
+      "voted_out": 6,
+      "wolf_games": 8,
+      "wolf_caught": 1
+    },
+    "Noor": {
+      "games": 31,
+      "voted_out": 10,
+      "wolf_games": 2,
+      "wolf_caught": 1
+    },
+    "Gabriela": {
+      "games": 32,
+      "voted_out": 1,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Eunji": {
+      "games": 30,
+      "voted_out": 0,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Isabella": {
+      "games": 33,
+      "voted_out": 1,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Rukmini": {
+      "games": 30,
+      "voted_out": 2,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Lingling": {
+      "games": 30,
+      "voted_out": 2,
+      "wolf_games": 5,
+      "wolf_caught": 0
+    },
+    "Naveen": {
+      "games": 30,
+      "voted_out": 9,
+      "wolf_games": 3,
+      "wolf_caught": 1
+    },
+    "Yewande": {
+      "games": 34,
+      "voted_out": 1,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Oliver": {
+      "games": 34,
+      "voted_out": 5,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Bilal": {
+      "games": 31,
+      "voted_out": 4,
+      "wolf_games": 4,
+      "wolf_caught": 0
+    },
+    "Santiago": {
+      "games": 22,
+      "voted_out": 3,
+      "wolf_games": 6,
+      "wolf_caught": 0
+    },
+    "Darius": {
+      "games": 30,
+      "voted_out": 7,
+      "wolf_games": 5,
+      "wolf_caught": 1
+    },
+    "Soraya": {
+      "games": 30,
+      "voted_out": 0,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Abena": {
+      "games": 31,
+      "voted_out": 0,
+      "wolf_games": 3,
+      "wolf_caught": 0
+    },
+    "Fatou": {
+      "games": 38,
+      "voted_out": 0,
+      "wolf_games": 8,
+      "wolf_caught": 0
+    },
+    "Olga": {
+      "games": 32,
+      "voted_out": 1,
+      "wolf_games": 2,
+      "wolf_caught": 0
+    },
+    "Kwesi": {
+      "games": 31,
+      "voted_out": 10,
+      "wolf_games": 5,
+      "wolf_caught": 1
+    }
+  },
+  "vil_gender_flow": {
+    "F>M": 1849,
+    "M>M": 1888,
+    "M>F": 313,
+    "F>F": 150
+  },
+  "wolf_gender_flow": {
+    "M>M": 304,
+    "M>F": 43,
+    "F>M": 334,
+    "F>F": 19
+  },
+  "gender_x_category": {
+    "M/WA": {
+      "games": 374,
+      "voted_out": 95
+    },
+    "M/ME": {
+      "games": 352,
+      "voted_out": 118
+    },
+    "F/AN": {
+      "games": 364,
+      "voted_out": 0
+    },
+    "M/SA": {
+      "games": 362,
+      "voted_out": 120
+    },
+    "M/EA": {
+      "games": 378,
+      "voted_out": 75
+    },
+    "F/EE": {
+      "games": 320,
+      "voted_out": 3
+    },
+    "M/EE": {
+      "games": 360,
+      "voted_out": 125
+    },
+    "M/AN": {
+      "games": 357,
+      "voted_out": 59
+    },
+    "F/SA": {
+      "games": 356,
+      "voted_out": 3
+    },
+    "F/LA": {
+      "games": 350,
+      "voted_out": 4
+    },
+    "F/EA": {
+      "games": 337,
+      "voted_out": 13
+    },
+    "F/ME": {
+      "games": 292,
+      "voted_out": 14
+    },
+    "M/LA": {
+      "games": 365,
+      "voted_out": 69
+    },
+    "F/WA": {
+      "games": 333,
+      "voted_out": 2
+    }
+  },
+  "vil_cross_group_flow": {
+    "F/EE>M/ME": 46,
+    "M/SA>M/ME": 51,
+    "F/AN>M/ME": 50,
+    "M/WA>M/ME": 43,
+    "M/ME>F/EE": 9,
+    "M/AN>M/ME": 63,
+    "M/EE>M/ME": 56,
+    "M/ME>M/AN": 36,
+    "M/EE>M/EA": 34,
+    "F/SA>F/LA": 5,
+    "F/LA>F/LA": 2,
+    "F/LA>M/WA": 41,
+    "M/WA>F/LA": 5,
+    "M/EA>F/LA": 5,
+    "F/LA>M/ME": 53,
+    "M/EA>M/EE": 63,
+    "M/AN>M/EE": 49,
+    "F/EA>M/EE": 43,
+    "F/SA>M/EE": 55,
+    "M/WA>M/EE": 48,
+    "M/EE>M/EE": 40,
+    "F/AN>M/EE": 43,
+    "F/EE>M/AN": 23,
+    "F/ME>M/AN": 30,
+    "F/SA>F/ME": 6,
+    "M/AN>F/ME": 14,
+    "M/WA>F/ME": 5,
+    "F/EE>M/EE": 38,
+    "M/LA>M/EE": 46,
+    "M/EE>M/WA": 38,
+    "F/LA>M/EE": 46,
+    "M/SA>M/EE": 67,
+    "F/ME>M/EE": 41,
+    "F/SA>M/EA": 34,
+    "M/WA>M/EA": 35,
+    "F/LA>M/EA": 25,
+    "F/EE>M/EA": 31,
+    "M/EA>M/WA": 45,
+    "M/ME>M/LA": 40,
+    "F/SA>M/LA": 28,
+    "F/LA>M/LA": 40,
+    "M/SA>M/LA": 32,
+    "M/LA>M/ME": 49,
+    "F/WA>M/SA": 33,
+    "M/LA>M/SA": 42,
+    "M/AN>M/SA": 45,
+    "F/EE>M/SA": 46,
+    "M/EE>M/SA": 52,
+    "M/WA>M/SA": 61,
+    "F/EA>M/SA": 43,
+    "F/SA>M/SA": 42,
+    "F/LA>M/SA": 41,
+    "M/ME>M/SA": 56,
+    "F/EA>F/SA": 2,
+    "M/LA>F/EA": 13,
+    "F/WA>M/LA": 40,
+    "F/EA>M/LA": 29,
+    "M/WA>M/LA": 50,
+    "F/ME>M/SA": 47,
+    "M/SA>M/WA": 33,
+    "F/EE>M/WA": 35,
+    "M/ME>M/WA": 37,
+    "F/EA>M/WA": 40,
+    "M/AN>M/WA": 39,
+    "F/WA>M/WA": 28,
+    "F/ME>M/ME": 35,
+    "F/EA>M/ME": 51,
+    "M/ME>M/EE": 47,
+    "M/EE>F/EE": 4,
+    "M/SA>M/SA": 39,
+    "F/AN>M/SA": 51,
+    "F/WA>M/EE": 55,
+    "F/WA>M/ME": 36,
+    "M/ME>M/ME": 31,
+    "M/EA>M/ME": 38,
+    "F/SA>M/ME": 43,
+    "F/SA>M/AN": 29,
+    "M/AN>F/EE": 8,
+    "F/AN>F/AN": 1,
+    "F/WA>M/AN": 32,
+    "M/AN>M/AN": 20,
+    "F/AN>M/AN": 29,
+    "F/ME>M/WA": 32,
+    "F/EA>M/AN": 42,
+    "M/ME>F/EA": 12,
+    "F/AN>F/EA": 7,
+    "F/ME>M/LA": 29,
+    "M/WA>F/EE": 9,
+    "M/EA>F/EE": 8,
+    "F/EA>F/EE": 5,
+    "F/EE>F/EE": 1,
+    "M/SA>F/SA": 4,
+    "M/EA>M/SA": 43,
+    "M/SA>F/ME": 9,
+    "F/ME>M/EA": 25,
+    "F/WA>M/EA": 35,
+    "F/AN>M/EA": 33,
+    "M/EA>F/ME": 11,
+    "M/LA>F/LA": 7,
+    "F/AN>M/LA": 34,
+    "F/WA>F/AN": 1,
+    "M/WA>M/AN": 20,
+    "M/LA>M/AN": 16,
+    "F/EA>M/EA": 29,
+    "M/ME>M/EA": 19,
+    "M/EA>M/EA": 25,
+    "M/LA>M/EA": 30,
+    "M/ME>F/LA": 5,
+    "F/ME>F/SA": 2,
+    "M/SA>M/EA": 29,
+    "F/SA>F/EA": 8,
+    "F/AN>F/SA": 4,
+    "F/LA>F/SA": 6,
+    "F/EE>F/SA": 3,
+    "F/LA>F/EA": 10,
+    "M/EA>F/EA": 12,
+    "M/WA>F/EA": 14,
+    "M/EE>M/AN": 23,
+    "M/LA>M/WA": 42,
+    "M/LA>M/LA": 21,
+    "M/AN>M/LA": 21,
+    "M/LA>F/WA": 5,
+    "M/EA>M/AN": 31,
+    "F/LA>M/AN": 23,
+    "M/EE>M/LA": 30,
+    "F/SA>M/WA": 40,
+    "M/EE>F/WA": 2,
+    "M/EA>F/SA": 7,
+    "F/EE>M/LA": 31,
+    "F/WA>F/WA": 3,
+    "M/EE>F/ME": 14,
+    "M/AN>M/EA": 26,
+    "M/SA>M/AN": 27,
+    "M/LA>F/ME": 15,
+    "F/WA>F/ME": 7,
+    "F/AN>M/WA": 44,
+    "M/WA>M/WA": 30,
+    "M/SA>F/WA": 2,
+    "M/LA>F/AN": 4,
+    "M/AN>F/SA": 5,
+    "M/WA>F/WA": 3,
+    "F/AN>F/WA": 2,
+    "M/ME>F/ME": 7,
+    "M/ME>F/WA": 1,
+    "F/WA>F/EE": 3,
+    "M/SA>F/AN": 2,
+    "M/ME>F/AN": 3,
+    "M/EE>F/LA": 3,
+    "M/EE>F/EA": 10,
+    "F/EE>F/EA": 6,
+    "M/EA>M/LA": 30,
+    "M/AN>F/WA": 2,
+    "F/SA>F/WA": 4,
+    "M/EA>F/WA": 5,
+    "M/AN>F/LA": 7,
+    "M/LA>F/SA": 3,
+    "M/EE>F/AN": 2,
+    "F/EE>F/LA": 2,
+    "F/EA>F/LA": 3,
+    "M/ME>F/SA": 6,
+    "M/LA>F/EE": 7,
+    "F/WA>F/EA": 6,
+    "M/AN>F/EA": 9,
+    "F/EA>F/EA": 4,
+    "M/SA>F/EE": 9,
+    "M/EA>F/AN": 3,
+    "F/EA>F/AN": 1,
+    "F/ME>F/EA": 4,
+    "M/SA>F/EA": 9,
+    "F/ME>F/ME": 2,
+    "F/EE>F/ME": 4,
+    "F/ME>F/EE": 2,
+    "F/WA>F/SA": 2,
+    "M/WA>F/SA": 2,
+    "F/SA>F/EE": 3,
+    "F/LA>F/WA": 1,
+    "M/EE>F/SA": 7,
+    "M/SA>F/LA": 3,
+    "F/EA>F/ME": 4,
+    "F/AN>F/EE": 1,
+    "F/AN>F/ME": 7,
+    "F/SA>F/SA": 1,
+    "M/AN>F/AN": 2,
+    "F/WA>F/LA": 1,
+    "F/ME>F/LA": 2,
+    "F/LA>F/AN": 1,
+    "F/AN>F/LA": 3,
+    "F/SA>F/AN": 1,
+    "F/EE>F/AN": 2,
+    "F/LA>F/EE": 1,
+    "F/EE>F/WA": 1,
+    "F/LA>F/ME": 2,
+    "F/ME>F/WA": 1
+  }
+}

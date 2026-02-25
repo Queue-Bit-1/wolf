@@ -1,0 +1,39 @@
+game_name: "speed_mafia"
+num_players: 5
+randomize_names: true
+
+roles:
+  - role: werewolf
+    count: 1
+  - role: villager
+    count: 4
+
+default_model:
+  api_base: "http://localhost:11434/v1"
+  api_key: "ollama"
+  model: "llama3.1:8b"
+  reasoning_temperature: 0.7
+  action_temperature: 0.3
+  timeout: 30.0
+  max_tokens: 2048
+  context_length: 8192
+
+players:
+  - name: Kenji
+  - name: Amara
+  - name: Diego
+  - name: Fatima
+  - name: Obi
+
+voting:
+  method: "plurality"
+  reveal_votes: true
+  tie_breaker: "random"
+
+communication:
+  allow_wolf_chat: false
+  allow_dms: false
+  discussion_rounds: 1
+  max_speech_length: 150
+
+max_days: 2

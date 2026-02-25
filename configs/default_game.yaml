@@ -1,0 +1,86 @@
+game_name: "classic_7p_3model"
+num_players: 7
+
+roles:
+  - role: werewolf
+    count: 2
+  - role: seer
+    count: 1
+  - role: doctor
+    count: 1
+  - role: villager
+    count: 3
+
+default_model:
+  api_base: "http://localhost:11434/v1"
+  api_key: "ollama"
+  model: "qwq:latest"
+  reasoning_temperature: 0.7
+  action_temperature: 0.3
+  timeout: 300.0
+  max_tokens: 1024
+  context_length: 16384
+
+# Mixed-model benchmark: qwq (smart), gpt-oss (medium), llama3.2 (baseline)
+players:
+  - name: Alice
+    model:
+      model: "qwq:latest"
+      timeout: 300.0
+      max_tokens: 1024
+      context_length: 16384
+  - name: Bob
+    model:
+      model: "gpt-oss:20b"
+      timeout: 300.0
+      max_tokens: 1024
+      context_length: 16384
+  - name: Charlie
+    model:
+      model: "llama3.2:3b"
+      timeout: 300.0
+      max_tokens: 512
+      context_length: 8192
+  - name: Diana
+    model:
+      model: "qwq:latest"
+      timeout: 300.0
+      max_tokens: 1024
+      context_length: 16384
+  - name: Eve
+    model:
+      model: "gpt-oss:20b"
+      timeout: 300.0
+      max_tokens: 1024
+      context_length: 16384
+  - name: Frank
+    model:
+      model: "llama3.2:3b"
+      timeout: 300.0
+      max_tokens: 512
+      context_length: 8192
+  - name: Grace
+    model:
+      model: "qwq:latest"
+      timeout: 300.0
+      max_tokens: 1024
+      context_length: 16384
+
+voting:
+  method: "plurality"
+  reveal_votes: true
+  tie_breaker: "no_elimination"
+
+communication:
+  allow_wolf_chat: true
+  allow_dms: false
+  discussion_rounds: 1
+  max_speech_length: 500
+
+metrics:
+  enabled: true
+  output_dir: "./results"
+  export_formats:
+    - json
+
+max_days: 10

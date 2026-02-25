@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.gradio/
+*.zip
+node_modules/
+.env
+*.tmp
+
+# Temp/working files
+serve_dashboard.py
+dashboard.py
+one_night_werewolf_data/
+
+# Small test results (keep only significant runs)
+experiments/results/results_*_2g.json
+experiments/results/results_*_3g.json
+experiments/results/results_*_5g.json
+experiments/results/results_*_10g.json

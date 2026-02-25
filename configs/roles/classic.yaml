@@ -1,0 +1,9 @@
+roles:
+  - role: werewolf
+    count: 2
+  - role: seer
+    count: 1
+  - role: doctor
+    count: 1
+  - role: villager
+    count: 3

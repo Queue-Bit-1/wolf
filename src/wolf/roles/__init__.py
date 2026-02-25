@@ -1,0 +1,1 @@
+"""Role definitions and registry."""

@@ -1,0 +1,97 @@
+{
+  "num_games": 1,
+  "win_rates": {
+    "win_rate_by_team": {
+      "werewolf": 1.0,
+      "village": 0.0
+    },
+    "win_rate_by_role": {
+      "villager": 0.0,
+      "werewolf": 1.0
+    },
+    "survival_rate_by_role": {
+      "villager": 0.25,
+      "werewolf": 1.0
+    },
+    "avg_survival_time_by_role": {
+      "villager": 1.5,
+      "werewolf": 2.0
+    },
+    "win_rate_by_model": {
+      "llama3.1:8b": 0.2
+    }
+  },
+  "reasoning": {
+    "accusation_accuracy": {
+      "p2": 1.0,
+      "p4": 0.0
+    },
+    "vote_consistency": {
+      "p2": 0.0,
+      "p4": 0.0,
+      "p5": 0.0
+    },
+    "deception_success": {
+      "p5": 1.0
+    }
+  },
+  "social": {
+    "persuasion_effectiveness": {},
+    "voting_bloc_detection": []
+  },
+  "cross_game": {
+    "game_length": {
+      "mean": 2,
+      "std": 0.0,
+      "ci_lower": 2.0,
+      "ci_upper": 2.0,
+      "n": 1
+    },
+    "eliminations_per_game": {
+      "mean": 3,
+      "std": 0.0,
+      "ci_lower": 3.0,
+      "ci_upper": 3.0,
+      "n": 1
+    },
+    "speeches_per_game": {
+      "mean": 4,
+      "std": 0.0,
+      "ci_lower": 4.0,
+      "ci_upper": 4.0,
+      "n": 1
+    }
+  },
+  "model_comparison": {
+    "llama3.1:8b": {
+      "wins": {
+        "mean": 0.2,
+        "std": 0.447,
+        "ci_lower": -0.355,
+        "ci_upper": 0.755,
+        "n": 5
+      },
+      "survival": {
+        "mean": 0.4,
+        "std": 0.548,
+        "ci_lower": -0.28,
+        "ci_upper": 1.08,
+        "n": 5
+      },
+      "survival_time": {
+        "mean": 1.6,
+        "std": 0.548,
+        "ci_lower": 0.92,
+        "ci_upper": 2.28,
+        "n": 5
+      },
+      "speeches": {
+        "mean": 0.8,
+        "std": 0.447,
+        "ci_lower": 0.245,
+        "ci_upper": 1.355,
+        "n": 5
+      }
+    }
+  }
+}
